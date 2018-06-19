@@ -13,8 +13,9 @@
 
 # Executive orders for the thigh up BOT Cli:
 
-./launch install ---#Order of installation of the robot
-./launch config ----#The command to install the bot config
+./launch install   ----#Order of installation of the robot
+
+./launch config    ----#The command to install the bot config
 
 
 Get the phone number of the command to run the BOT
@@ -28,12 +29,15 @@ Get the phone number of the command to run the BOT
 ./launch cli
 
 # Open a new terminal to help stricken orbat API/START we send the following command:
+
 ./launch api
 
 
 # 👻To run the following command in Terminal on a permanent new bot added:
 
+
 #killall -9 bash
+
 #./Autolaunch
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
